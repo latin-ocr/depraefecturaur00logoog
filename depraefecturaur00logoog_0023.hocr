@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depraefecturaur00logoog_0023.png"; bbox 0 0 3128 5078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 531 1118 583">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 531 1118 583">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 531 1118 583; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 336 531 366 582; x_wconf 84' lang='lat'>10</span> <span class='ocrx_word' id='word_1_2' title='bbox 568 533 616 583; x_wconf 77' lang='grc' dir='ltr'>ΒΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 638 531 926 583; x_wconf 74' lang='lat' dir='ltr'><strong>PRAEFEGTURA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 950 532 1118 583; x_wconf 75' lang='lat' dir='ltr'>URBANA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 336 667 1350 1013">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 336 640 1536 1013">
+     <span class='ocr_line' id='line_1_2' title="bbox 336 667 1350 766; baseline 0.001 -25"><span class='ocrx_word' id='word_1_5' title='bbox 336 667 678 764; x_wconf 79' lang='lat' dir='ltr'>persequi.Sedhaec</span> <span class='ocrx_word' id='word_1_6' title='bbox 691 668 876 744; x_wconf 79' lang='lat' dir='ltr'><strong>hactenus:</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 884 671 1006 766; x_wconf 83' lang='lat' dir='ltr'><strong>jamre</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1016 672 1183 743; x_wconf 80' lang='lat' dir='ltr'><strong>universe</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1194 670 1350 766; x_wconf 82' lang='lat' dir='ltr'>exposita</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 336 794 1349 890; baseline 0.001 -26"><span class='ocrx_word' id='word_1_10' title='bbox 336 794 479 890; x_wconf 63' lang='lat' dir='ltr'>ejusque</span> <span class='ocrx_word' id='word_1_11' title='bbox 499 794 654 890; x_wconf 81' lang='lat' dir='ltr'><strong>partibus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 684 796 883 867; x_wconf 83' lang='lat' dir='ltr'><strong>summatim</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 908 794 1106 885; x_wconf 79' lang='lat' dir='ltr'>delineatis,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1125 818 1212 889; x_wconf 83' lang='lat' dir='ltr'>opus</span> <span class='ocrx_word' id='word_1_15' title='bbox 1235 795 1349 890; x_wconf 84' lang='lat' dir='ltr'><strong>ipsum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 336 917 600 1013; baseline -0.004 -23"><span class='ocrx_word' id='word_1_16' title='bbox 336 917 600 1013; x_wconf 76' lang='lat' dir='ltr'><strong>aggrediamur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1568 5078">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1568 5078">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1568 5078; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1568 5078; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
